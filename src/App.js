@@ -1,7 +1,7 @@
 import './App.css';
 import Characters from './Components/Characters';
 import Locations from './Components/Locations';
-import Episodes from './Components/TempEpisodes';  
+import Episodes from './Components/Episodes';  
 
 
 function App() {
